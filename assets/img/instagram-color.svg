@@ -1,0 +1,15 @@
+<svg id="XMLID_13_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.176" height="23.175" viewBox="0 0 23.176 23.175">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.008" x2="0.5" y2="0.998" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e09b3d"/>
+      <stop offset="0.3" stop-color="#c74c4d"/>
+      <stop offset="0.6" stop-color="#c21975"/>
+      <stop offset="1" stop-color="#7024c4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-0.451" y2="1.462" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="-1.396" y2="6.586" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="XMLID_17_" d="M16.271,0H6.9A6.912,6.912,0,0,0,0,6.9v9.367a6.912,6.912,0,0,0,6.9,6.9h9.367a6.912,6.912,0,0,0,6.9-6.9V6.9A6.912,6.912,0,0,0,16.271,0Zm4.573,16.271a4.573,4.573,0,0,1-4.573,4.573H6.9a4.573,4.573,0,0,1-4.573-4.573V6.9A4.573,4.573,0,0,1,6.9,2.331h9.367A4.573,4.573,0,0,1,20.844,6.9v9.367Z" fill="url(#linear-gradient)"/>
+  <path id="XMLID_81_" d="M138.994,133a5.994,5.994,0,1,0,5.994,5.994A6,6,0,0,0,138.994,133Zm0,9.656a3.663,3.663,0,1,1,3.663-3.663A3.662,3.662,0,0,1,138.994,142.656Z" transform="translate(-127.406 -127.406)" fill="url(#linear-gradient-2)"/>
+  <ellipse id="XMLID_83_" cx="1.436" cy="1.436" rx="1.436" ry="1.436" transform="translate(16.157 4.203)" fill="url(#linear-gradient-3)"/>
+</svg>

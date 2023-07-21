@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="页面-1" transform="translate(-0.264 -0.561)">
+    <g id="导航图标" transform="translate(0 0.298)">
+      <g id="编组">
+        <rect id="矩形" width="30" height="30" transform="translate(0.264 0.264)" fill="none"/>
+        <path id="路径" d="M2.5,3.926A1.926,1.926,0,0,1,4.426,2H19.832a1.926,1.926,0,0,1,1.926,1.926V27.677H4.426A1.926,1.926,0,0,1,2.5,25.751Z" transform="translate(0.71 0.284)" fill="none" stroke="#fff" stroke-linejoin="round" strokeWidth="2" fillRule="evenodd"/>
+        <path id="路径-2" data-name="路径" d="M17.5,12.284A1.284,1.284,0,0,1,18.784,11h2.568a1.284,1.284,0,0,1,1.284,1.284V23.2a1.926,1.926,0,0,1-1.926,1.926H17.5Z" transform="translate(4.967 2.838)" fill="none" stroke="#fff" stroke-linejoin="round" strokeWidth="2" fillRule="evenodd"/>
+        <line id="路径-3" data-name="路径" x2="5.135" transform="translate(7.061 7.419)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2"/>
+        <line id="路径-4" data-name="路径" x2="7.703" transform="translate(7.061 11.912)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

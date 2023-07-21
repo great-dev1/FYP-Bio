@@ -1,0 +1,506 @@
+/**** Only Fans Template  ****/
+.only-fans-preview {
+  .preview-mobile {
+    background: linear-gradient(to bottom, #ab0b11, #9c37a3);
+  }
+  .user-avatar {
+    border-color: #ab0b11;
+    background-color: #ab0b11 !important;
+  }
+  .social-link-item {
+    color: #fff;
+    background: linear-gradient(
+      to right,
+      rgba(217, 100, 100, 0.38),
+      rgba(210, 63, 155, 0.38)
+    );
+    .social-link-item-icon {
+      background: rgba($color: #fff, $alpha: 0.3);
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: #fff;
+      }
+    }
+  }
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background: linear-gradient(to right, #d96464, #d23f9b);
+  }
+  .sorcial-group {
+    background: linear-gradient(to bottom, #ab0b11, #9c37a3);
+  }
+}
+
+/**** Minimal Template  ****/
+.minimal-preview {
+  .preview-mobile {
+    background: #fff;
+  }
+  .nav-bar {
+    .logo-icon {
+      p {
+        color: #000;
+      }
+      .line-bar {
+        border-color: #000;
+        background-color: #000;
+      }
+    }
+    .top-icon-btns {
+      .MuiButtonBase-root {
+        background-color: #f5f5f5;
+        svg path {
+          fill: #000;
+        }
+      }
+    }
+  }
+  .user-avatar {
+    border-color: #fff;
+    background-color: #fff !important;
+  }
+  .user-info-text {
+    h6 {
+      color: #000;
+    }
+    p {
+      color: rgba(0, 0, 0, 0.8);
+    }
+  }
+  .social-links {
+    .instagram-icon path,
+    .instagram-icon ellipse,
+    .snapchat-icon path,
+    .fansly-icon path,
+    .youtube-outlined-icon path:first-child,
+    .twitter-icon path {
+      fill: #000;
+    }
+    .youtube-outlined-icon path {
+      stroke: #000;
+    }
+  }
+  .social-link-item {
+    color: #000;
+    background: #fff;
+    border: 1px solid rgba(112, 112, 112, 0.38);
+    .social-link-item-icon {
+      background: rgba($color: #eeeeee, $alpha: 0.3);
+    }
+    .social-link-item-text {
+      h3 {
+        color: #000;
+      }
+      p {
+        color: rgba($color: #000000, $alpha: 0.65);
+      }
+    }
+    .links-up-icon path:first-child {
+      stroke: #000;
+    }
+    .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path {
+        fill: #000;
+      }
+    }
+    .instagram-icon {
+      path, ellipse {
+        fill: #fff;
+      }
+    }
+  }
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    border: 0;
+    position: relative;
+    background-image: url("/background/link-item-bg.webp");
+    .social-link-item-icon {
+      background: rgba($color: #fff, $alpha: 0.3);
+    }
+    .social-link-item-text {
+      h6 {
+        color: #fff;
+      }
+      p {
+        color: rgba($color: #fff, $alpha: 0.65);
+      }
+    }
+    &::after {
+      background-color: rgba(0, 0, 0, 0.84);
+    }
+    .links-up-icon path:first-child {
+      stroke: #fff;
+    }
+  }
+  .sorcial-group {
+    background: #fff;
+  }
+}
+
+/****** Glass Theme *****/
+.glass-preview {
+  .preview-mobile,
+  .sorcial-group {
+    background: linear-gradient(to bottom, #f57059, #ce47c0);
+  }
+  .user-avatar {
+    border-color: #ef696a;
+    background-color: #ef696a !important;
+  }
+  .social-link-item {
+    background: rgba($color: #fff, $alpha: 0.25);
+    .social-link-item-icon {
+      background: #fff;
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: rgb(244, 97, 124);
+      }
+    }
+  }
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background: linear-gradient(to right, #e81e55, #d03286) !important;
+  }
+}
+
+/****** Snow Template ******/
+.snow-preview {
+  .preview-mobile,
+  .sorcial-group {
+    background: #fff;
+  }
+  .nav-bar {
+    .logo-icon {
+      p {
+        color: #000;
+      }
+      .line-bar {
+        border-color: #000;
+        background-color: #000;
+      }
+    }
+    .top-icon-btns {
+      .MuiButtonBase-root {
+        background-color: #f5f5f5;
+        svg path {
+          fill: #000;
+        }
+      }
+    }
+  }
+  .user-avatar {
+    border-color: #fff;
+    background-color: #fff !important;
+  }
+  .user-info-text {
+    h6 {
+      color: #000;
+    }
+    p {
+      color: rgba(0, 0, 0, 0.8);
+    }
+  }
+  .social-links {
+    .instagram-icon path,
+    .instagram-icon ellipse,
+    .snapchat-icon path,
+    .fansly-icon path,
+    .youtube-outlined-icon path:first-child,
+    .twitter-icon path {
+      fill: #000;
+    }
+    .youtube-outlined-icon path {
+      stroke: #000;
+    }
+  }
+  .social-link-item {
+    background: #1e0c1a;
+    .social-link-item-icon {
+      background: #625657;
+    }
+    .social-link-item-text {
+      h6 {
+        color: #fff;
+      }
+      p {
+        color: #fff;
+      }
+    }
+    .links-up-icon path:first-child {
+      stroke: #fff;
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: #fff;
+      }
+    }
+  }
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background-image: url("/background/link-item-bg.webp");
+    .social-link-item-icon {
+      background: rgba($color: #fff, $alpha: 0.3);
+    }
+    .social-link-item-text {
+      h6 {
+        color: #fff;
+      }
+      p {
+        color: rgba($color: #fff, $alpha: 0.65);
+      }
+    }
+    &::after {
+      background-color: rgba(0, 0, 0, 0.84);
+    }
+  }
+}
+
+/***** Neon Template *****/
+.neon-preview {
+  .preview-mobile,
+  .sorcial-group {
+    // background: url('/background/sign-up-mobile-bg.webp');
+    background-image: url("/background/neon-bg.svg");
+    background-color: #000;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .user-avatar {
+    border-color: #2a1e35;
+    background-color: #2a1e35 !important;
+  }
+  .user-info-text {
+    h6 {
+      color: #fff;
+      text-shadow: #7aceff 0 0 15px;
+    }
+    p {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+  .social-links {
+    svg {
+      filter: drop-shadow(0 0 16px #148aff);
+    }
+    .instagram-icon path,
+    .instagram-icon ellipse,
+    .snapchat-icon path,
+    .fansly-icon path,
+    .youtube-outlined-icon path:first-child,
+    .twitter-icon path {
+      fill: #54aaf5;
+    }
+    .youtube-outlined-icon path {
+      stroke: #54aaf5;
+    }
+  }
+  .social-link-item,
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background: linear-gradient(
+      to bottom,
+      rgba(56, 77, 106, 0.4),
+      rgba(50, 70, 98, 0.4),
+      rgba(43, 62, 88, 0.4)
+    );
+    box-shadow: inset 0 5px 20px rgba(255, 255, 255, 0.2);
+    filter: drop-shadow(0 5px 20px rgba(0, 0, 0, 0.86));
+    .social-link-item-icon {
+      background: #445e81;
+      svg {
+        filter: drop-shadow(0 0 16px #148aff);
+      }
+    }
+    .social-link-item-text {
+      h6 {
+        color: #fff;
+        text-shadow: #7aceff 0 0 15px;
+      }
+      p {
+        color: #fff;
+      }
+    }
+    .links-up-icon path:first-child {
+      stroke: #fff;
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: rgb(84, 170, 245);
+      }
+    }
+  }
+}
+
+/******* 3D Buttons *******/
+.three-dimension-buttons-preview {
+  .preview-mobile,
+  .sorcial-group {
+    background: #fff;
+  }
+  .nav-bar {
+    .logo-icon {
+      p {
+        color: #000;
+      }
+      .line-bar {
+        border-color: #000;
+        background-color: #000;
+      }
+    }
+    .top-icon-btns {
+      .MuiButtonBase-root {
+        background-color: #f5f5f5;
+        svg path {
+          fill: #000;
+        }
+      }
+    }
+  }
+  .user-avatar {
+    border-color: #fff;
+    background-color: #fff !important;
+  }
+  .user-info-text {
+    h6 {
+      color: #000;
+    }
+    p {
+      color: rgba(0, 0, 0, 0.8);
+    }
+  }
+  .social-links {
+    .instagram-icon path,
+    .instagram-icon ellipse,
+    .snapchat-icon path,
+    .fansly-icon path,
+    .youtube-outlined-icon path:first-child,
+    .twitter-icon path {
+      fill: #000;
+    }
+    .youtube-outlined-icon path {
+      stroke: #000;
+    }
+  }
+  .social-link-item {
+    background: #35bd81;
+    box-shadow: 4px 5px rgba(37, 147, 99, 0.85);
+    .social-link-item-icon {
+      background: rgba(255, 255, 255, 0.22);
+    }
+    .social-link-item-text {
+      h6 {
+        color: #fff;
+      }
+      p {
+        color: #fff;
+      }
+    }
+    .links-up-icon path:first-child {
+      stroke: #fff;
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: #fff;
+      }
+    }
+  }
+  .social-link-item-list,
+  .sorcial-group {
+    .social-link-item:nth-child(4n) {
+      background: #f4729a;
+      box-shadow: 4px 5px rgba(208, 50, 99, 0.85);
+    }
+    .social-link-item:nth-child(2) {
+      background: #5490eb;
+      box-shadow: 4px 5px rgba(86, 113, 183, 0.85);
+    }
+    .social-link-item:nth-child(3) {
+      background: #35bd81;
+      box-shadow: 4px 5px rgba(37, 147, 99, 0.85);
+    }
+  }
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background: #f4729a;
+    box-shadow: 4px 5px rgba(208, 50, 99, 0.85);
+  }
+}
+
+/******* Background Image 1 ********/
+.bg-img-preview {
+  .preview-mobile,
+  .sorcial-group {
+    background: unset;
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    &::before {
+      position: absolute;
+      content: "";
+      width: calc(100% + 20px);
+      height: calc(100% + 20px);
+      top: -10px;
+      left: -10px;
+      background-image: url("/background/background-photo-1.webp");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
+  .nav-bar {
+    .logo-icon {
+      position: relative;
+      z-index: 1;
+      p {
+        color: #fff;
+      }
+      .line-bar {
+        border-color: #fff;
+        background-color: #fff;
+      }
+    }
+  }
+  .user-avatar {
+    border-color: #25596D;
+    background-color: #25596D !important;
+  }
+  .user-info-text {
+    position: relative;
+    h6 {
+      color: #fff;
+    }
+    p {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+  .social-links {
+    position: relative;   
+  }
+  .social-link-item,
+  .social-link-item-list .social-link-item:first-child,
+  .sorcial-group .social-link-item:first-child {
+    background: #fff;
+    .social-link-item-icon {
+      background: #000;
+    }
+    .social-link-item-text {
+      h6 {
+        color: #000;
+      }
+      p {
+        color: #000;
+      }
+    }
+    .links-up-icon path:first-child {
+      stroke: #000;
+    }
+    .instagram-icon, .discord-icon, .cameo-icon, .paypal-icon, .go-fund-me-icon {
+      path, ellipse {
+        fill: #fff;
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@font-face {
+  font-family: Gilroy;
+  src: url(./fonts/Gilroy-Bold.woff) format('woff');
+  font-weight: 700;
+  font-display: swap;
+}
+body {
+  font-family: Poppins;
+}
+@import './fypBioTemplates.scss';
+@import './templatePreview.scss';
+@import './animation.scss';

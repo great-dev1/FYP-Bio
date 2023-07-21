@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="603.97" height="261.346" viewBox="0 0 603.97 261.346">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.012" y1="0.718" x2="0.988" y2="0.718" gradientUnits="objectBoundingBox">
+      <stop offset="0.042" stop-color="#f7931e"/>
+      <stop offset="0.973" stop-color="#ed6940"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_152" data-name="Group 152" transform="translate(-850.712 -1732.003)">
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="603.97" height="261.347" rx="55" transform="translate(850.712 1732.003)" fill="#fff"/>
+    <text id="Get_all_of_my_travel_updates_" data-name="Get all of my travel updates!" transform="translate(1139.235 1797.487)" fill="#1a1a1a" font-size="31" font-family="SegoeUI, Segoe UI"><tspan x="-192.448" y="0">Get all of my travel updates!</tspan></text>
+    <g id="Group_150" data-name="Group 150">
+      <text id="Enter_Email_Address" data-name="Enter Email Address" transform="translate(934.342 1910.306)" fill="#333" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Enter Email Address</tspan></text>
+      <g id="Rectangle_62" data-name="Rectangle 62" transform="translate(896.918 1850.13)" fill="none" stroke="#ccc" stroke-miterlimit="10" stroke-width="1">
+        <rect width="439.366" height="103.336" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="438.366" height="102.336" rx="17.5" fill="none"/>
+      </g>
+      <g id="Group_149" data-name="Group 149" transform="translate(-5 27.073)">
+        <rect id="Rectangle_63" data-name="Rectangle 63" width="207.2" height="103.336" rx="18" transform="translate(1209.427 1823.057)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Subscribe" transform="translate(1308.027 1912.798)" fill="#fff" font-size="31" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-77.624" y="0">Subscribe</tspan></text>
+    </g>
+  </g>
+</svg>
